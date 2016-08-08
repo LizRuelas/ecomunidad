@@ -1,0 +1,39 @@
+/* Inserta tu codigo aqui */
+.col-2 img {
+	height: 130px;
+}
+.menu a {
+	text-decoration: none;
+	color: #9A9A9F;
+	font-style: bold;
+	margin-left: 25px;
+	margin-right:25px;
+	font-weight: bold;
+	font-size: 18px;
+}
+.menu {
+	padding: 40px;
+}
+.portada {
+	background-image:  url(../img/semilla.jpg);
+	height: 800px;
+}
+.fondoplomo {
+	background-color: #F2F2F2;
+	height: 60px;
+	padding: 70px 300px;
+}
+.pad-blanco {
+	padding: 80px;
+}
+.presentador {
+	background-image: url(../img/metodo.jpg);
+	height: 450px;
+	background-size: 712px;
+	background-repeat: no-repeat;
+}
+.metodologia {
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	height: 450px;
+}
