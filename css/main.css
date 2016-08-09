@@ -12,11 +12,15 @@
 	font-size: 18px;
 }
 .menu {
-	padding: 40px;
+	padding: 50px 0px;
+	float: right;
 }
 .portada {
+	max-width: 100%;
 	background-image:  url(../img/semilla.jpg);
-	height: 800px;
+	background-repeat: no-repeat;
+	height: 440px;
+	background-position-y: -230px;
 }
 .fondoplomo {
 	background-color: #F2F2F2;
@@ -29,11 +33,113 @@
 .presentador {
 	background-image: url(../img/metodo.jpg);
 	height: 450px;
-	background-size: 712px;
+	background-size: 100%;
 	background-repeat: no-repeat;
 }
 .metodologia {
 	background-image: url(../img/fondo.jpg);
 	background-repeat: no-repeat;
-	height: 450px;
+	height: 210px;
+	color: white;
+	padding:120px;
+}
+.servicios {
+	padding: 40px;
+}
+.pad-serv {
+	padding: 30px 80px;
+}
+.pad-serv h3 {
+	padding: 20px;
+	color: #5E8039;
+}
+.pt-p {
+	padding-top: 15px;
+}
+.fondoverde {
+	background-color: #5E8039;
+	padding: 50px 0px;
+	color: white;
+}
+.imgproyecto1 {
+	background-image: url(../img/fotos/img-0352.jpg);
+	
+}
+.imgproyecto2 {
+	background-image: url(../img/fotos/img-9246.jpg);
+	
+}
+.detalle {
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.parrafo {
+	margin-left: 20px;
+}
+.equipo {
+	margin: 0px 50px;
+}
+.equipo .foto {
+	border-radius: 100%;
+}
+.equipo h2 {
+	padding: 15px;
+}
+.redes {
+	padding: 20px;
+}
+.redes img {
+	margin: 10px;
+	height: 45px;
+}
+.fondoblog {
+	background-image: url(../img/fondo2.jpg);
+	padding: 60px;
+}
+.fondoblog img{
+	max-width: 100%;
+}
+.detalleblog {
+	margin: 30px;
+}
+.slider {
+	margin: 150% 0px;
+}
+.izquierda {
+	float: right;
+}
+.slider img {
+	height: 50px;
+}
+.bordeblanco {
+	border-top: 1px;
+	border-bottom: 1px;
+	border-left: 1px;
+	border-style: solid;
+	border-color: white;
+	height: 200px;
+}
+.ultimo {
+	border-right: 1px;
+	border-style: solid;
+	border-color: white;
+}
+.bordeblanco img {
+	max-width: 100%;
+	height: 50px;
+	float: right;
+}
+.bordeblanco {
+	padding:20px;
+	font-size: 25px;
+}
+.bg-plomo {
+	padding: 70px 0px;
+}
+.piepagina {
+	padding: 80px 0px;
+}
+.contacto {
+	text-align: right;
 }

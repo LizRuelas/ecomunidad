@@ -30,6 +30,9 @@
 .pb-5{
 	padding-bottom: 5%;
 }
+.pb-2 {
+	padding-bottom: 2%;
+}
 .pd-5 {
 	padding: 5%;
 }
@@ -78,9 +81,7 @@
 .bg-black{
 	background-color: #4D4D4D;
 }
-.text-gray{
-	color:#F2F2F2;
-}
+
 .text-black{
 	color: #4D4D4D;
 }
@@ -97,4 +98,7 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
+}
+.bg-plomo {
+	background-color: #4D4D4D;
 }
